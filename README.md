@@ -60,6 +60,10 @@ Before getting started, ensure you have the following installed:
 3. Enter the number of people or individuals and specify how much each person contributed (optional).
 4. Click "Split" to see the calculated amount each person owes.
 
+## Demo
+
+Check out the live demo of the eat-n-split on [GitHub Pages](https://neendudev.github.io/eat-n-split/).
+
 ## Screenshots
 
 ![Screenshot](screenshot.png)
