@@ -26,6 +26,7 @@ body {
 }
 
 .app {
+  width: 100vh;
   min-height: 66vh;
   display: grid;
   grid-template-columns: 34rem 44rem;
